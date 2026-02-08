@@ -7,8 +7,6 @@
 - 🌱 Estudando arquiteura e desenvolvimento mobile com Flutter e Dart
 
 
-<img align="right" width="38%" src="https://i.pinimg.com/736x/62/66/f1/6266f17f69e54ac96ce438329a0284af.jpg"/>
-
   <a href="https://github.com/biel8sk"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=biel8sk&theme=radical&title_color=ff3068?"></a>
 
 <div align="center">
