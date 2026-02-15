@@ -6,9 +6,6 @@
 - 🔭 Tecnóloco em Análise e Desenvolvimento de sistemas
 - 🌱 Estudando arquiteura e desenvolvimento mobile com Flutter e Dart
 
-
-  <a href="https://github.com/biel8sk"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=biel8sk&theme=radical&title_color=ff3068?"></a>
-
 <div align="center">
   <img align="center" width="35" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" width="35" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
