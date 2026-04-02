@@ -4,7 +4,7 @@
 
 
 - 🔭 Tecnóloco em Análise e Desenvolvimento de sistemas
-- 🌱 Estudando arquiteura e desenvolvimento mobile com Flutter e Dart
+- 🌱 Fullstack, atuando principalmente com Dart, C#, Java e Python.
 
 <div align="center">
   <img align="center" width="35" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
