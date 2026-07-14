@@ -3,8 +3,8 @@
 <img align="right" width="150" src="https://github.com/user-attachments/assets/d0b4ee90-a6b3-4ca8-892b-568d94e577c1">
 
 
-- 🔭 Tecnóloco em Análise e Desenvolvimento de sistemas
-- 🌱 Fullstack, atuando principalmente com Dart, C#, Java e Python.
+- 🔭 Tecnóloco em Análise e Desenvolvimento de sistemas e estudando engenharia de software na 42sp.
+- 🌱 Fullstack, atuando principalmente com C# e desenvolvimento de aplicativos com FLutter e Dart.
 
 <div align="center">
   <img align="center" width="35" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
